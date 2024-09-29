@@ -1,0 +1,16 @@
+{
+    "name": "Трон восьмого лорда воды",
+    "description": "Throne of the Eighth Lord of Water",
+    "marketplace": "getgems.io",
+    "attributes": [
+      {
+        "trait_type": "Wave",
+        "value": "4"
+      },
+      {
+        "trait_type": "Wave name",
+        "value": "Water lords"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/DDARK-ANGEL/DARK-TON-Lords/refs/heads/main/image/22.jpg"
+  }

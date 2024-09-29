@@ -1,0 +1,16 @@
+{
+    "name": "Трон третьего лорда воды",
+    "description": "Throne of the Third Water Lord",
+    "marketplace": "getgems.io",
+    "attributes": [
+      {
+        "trait_type": "Wave",
+        "value": "4"
+      },
+      {
+        "trait_type": "Wave name",
+        "value": "Water lords"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/DDARK-ANGEL/DARK-TON-Lords/refs/heads/main/image/17.jpg"
+  }
