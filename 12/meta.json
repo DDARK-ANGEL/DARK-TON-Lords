@@ -1,0 +1,16 @@
+{
+    "name": "Трон третьего лорда ветра",
+    "description": "The throne of the Lord of the Wind",
+    "marketplace": "getgems.io",
+    "attributes": [
+      {
+        "trait_type": "Wave",
+        "value": "3"
+      },
+      {
+        "trait_type": "Wave name",
+        "value": "Wind lords"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/DDARK-ANGEL/DARK-TON-Lords/refs/heads/main/image/12.jpg"
+  }
