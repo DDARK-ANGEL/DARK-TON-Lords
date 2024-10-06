@@ -1,0 +1,16 @@
+{
+    "name": "Трон лорда тьмы",
+    "description": "Throne of the Lord of Darkness",
+    "marketplace": "getgems.io",
+    "attributes": [
+      {
+        "trait_type": "Wave",
+        "value": "1"
+      },
+      {
+        "trait_type": "Wave name",
+        "value": "Dark lords"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/DDARK-ANGEL/DARK-TON-Lords/refs/heads/main/image/0.jpg"
+  }
